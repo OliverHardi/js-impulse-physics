@@ -8,3 +8,5 @@ implements:
 - SAT narrowphase with contact generation
 - friction and inertia
 - substepping and framerate-independent simulation
+
+use arrow keys to move the main object in the demo
